@@ -8,4 +8,3 @@ Updates map with bus positions.
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/MegNieves/EyeExercise/blob/106502ace9acf491e4e6bfe970a56037b8fad938/LICENSE)
 
 
-https://github.com/MegNieves/EyeExercise/blob/106502ace9acf491e4e6bfe970a56037b8fad938/LICENSE
